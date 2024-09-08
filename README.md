@@ -29,9 +29,9 @@ If someone is good at that, let my know.
 
 Flashing:
 
-Used these two pages for some info:
-https://tasmota.github.io/docs/Getting-Started/#prerequisites
-https://esphome.io/guides/physical_device_connection.html#unpopulated-programming-header
+Used these two pages for some info:<br>
+https://tasmota.github.io/docs/Getting-Started/#prerequisites <br>
+https://esphome.io/guides/physical_device_connection.html#unpopulated-programming-header <br>
 
 
 ![Alt text](images/flashing.png)
