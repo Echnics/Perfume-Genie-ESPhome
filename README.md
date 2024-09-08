@@ -21,3 +21,8 @@ Pins:
 - IO16 is for the Connect button.
 - IO3 is for the button at the rear.
 
+There is a NFC NXP RC522 for the scent name of the tank.<br>
+I haven't figured out how it's connected to the ESP yet.<br>
+But i also guess it's not so easy to figure out the data for the tank tag to get it working.<br>
+If someone is good at that, let my know.
+
