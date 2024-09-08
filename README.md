@@ -3,11 +3,10 @@
 My Perfume Genie is know connected through ESPhome,
 and i control fan speed.<br>
 The LED light up blue when connected,red if disconnects.<br>
-Green LED when fan is running.<br>
+LED lights up green when fan is running.<br>
 The rear button toggels the fan.<br>
-
 I've set up timers in Nodered for run time,that can easily be done with HA automations to.<br>
 
 
-Will try to get a gudie for what i did here soon.<br>
-![Alt text](perfumegenieespmodule.jpeg)
+Here is som info on the perfume genie board.<br>
+![Alt text](images/perfumegenieespmodule.jpeg)
