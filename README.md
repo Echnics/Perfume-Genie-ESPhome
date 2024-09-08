@@ -36,7 +36,7 @@ https://esphome.io/guides/physical_device_connection.html#unpopulated-programmin
 I used a NodeMCU board as serial adapter. <br>
 Connected the reset pin to ground on the Nodemcu to disable the onboard ESP. <br>
 I used the pin header i added to the genie board as mentioned earlier to connect the tx,rx and ground. <br>
-For the 3volt and io0 on the genie esp, i just manualy hold the wires in place, worked fine. <br>
+For the 3volt and io0 directly to the genie esp, i just manualy hold the wires in place, worked fine. <br>
 
 Just make sure you use 3 volt on whatever serial adapter you use.(i read somwhere)
 
