@@ -1,4 +1,4 @@
-![Alt text](images/perfumegenie.jpg)
+![Alt text](images/perfumegenie.jpg | width=100)
 
 # This is my guide to get Perfume Genie 2.0 to work in ESPhome.
 
