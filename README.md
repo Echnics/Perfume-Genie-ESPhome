@@ -11,6 +11,7 @@ I've set up timers in Nodered for runtimes,that can easily be done with HA autom
 
 
 Here is som info on the perfume genie board.<br>
+The pins on the header in the top left corner i soldered on my self to make flashing easier.
 ![Alt text](images/Perfumegenieboard.jpg)
 ![Alt text](images/perfumegenieespmodule.jpeg) 
 
