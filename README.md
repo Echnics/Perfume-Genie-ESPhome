@@ -1,6 +1,6 @@
 # This is my guide to get Perfume Genie 2.0 to work in ESPhome.
 
-My Perfume Genie is know connected through ESPhome,
+My Perfume Genie is know connected through ESPhome,<br>
 and i control fan speed.
 The LED light up blue when connected,red if disconnects.
 Green when fan is running.
