@@ -16,7 +16,7 @@ The pins on the header in the top left corner i soldered on my self to make flas
 ![Alt text](images/perfumegenieespmodule.jpeg) 
 
 Pins:
-- IO4 is for PWM tho fan(Blue wire).
+- IO4 is for PWM to fan(Blue wire).
 - IO15 is for LED (WS2812).
 - IO16 is for the Connect button.
 - IO3 is for the button at the rear.
@@ -28,4 +28,10 @@ If someone is good at that, let my know.
 
 
 Flashing:
+
+Used these two pages for some info:
+https://tasmota.github.io/docs/Getting-Started/#prerequisites
+https://esphome.io/guides/physical_device_connection.html#unpopulated-programming-header
+
+
 ![Alt text](images/flashing.png)
