@@ -1,3 +1,5 @@
+![Alt text](images/perfumegenie.jpg)
+
 # This is my guide to get Perfume Genie 2.0 to work in ESPhome.
 
 My Perfume Genie is know connected through ESPhome,
