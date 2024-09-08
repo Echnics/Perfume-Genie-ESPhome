@@ -26,3 +26,6 @@ I haven't figured out how it's connected to the ESP yet.<br>
 But i also guess it's not so easy to figure out the data for the tank tag to get it working.<br>
 If someone is good at that, let my know.
 
+
+Flashing:
+![Alt text](images/flashing.png)
