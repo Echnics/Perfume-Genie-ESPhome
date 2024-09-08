@@ -32,7 +32,7 @@ Flashing:
 For Software i just used ESPhome addon in HA to compile the bin file, <br>
 and used https://web.esphome.io/?dashboard_install for flashing that file. <br>
 
-Used these two pages for some info:<br>
+Used these two pages for some info about wiring it up:<br>
 https://tasmota.github.io/docs/Getting-Started/#prerequisites <br>
 https://esphome.io/guides/physical_device_connection.html#unpopulated-programming-header <br>
 
