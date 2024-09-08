@@ -6,7 +6,7 @@ The LED light up blue when connected,red if disconnects.
 Green when fan is running.
 The rear button toggels the fan.
 
-I've set up timers in Nodered for run time,that can easely be done with HA automations to.
+I've set up timers in Nodered for run time,that can easily be done with HA automations to.
 
 
 Will try to get a gudie for what i did here soon.
