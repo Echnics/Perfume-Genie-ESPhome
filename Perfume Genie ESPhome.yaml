@@ -1,3 +1,23 @@
+esphome:
+  name: perfume-genie-esp8266
+  friendly_name: Perfume Genie ESP8266
+  comment: Perfume Genie 2.0 ESP8266.
+
+esp8266:
+  board: esp_wroom_02
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+  encryption:
+    key: "3CUKZWjezC26eaJjQzDoVUgW9Di8FyUcFlWwnNnPbvw="
+
+ota:
+  - platform: esphome
+    password: !secret my_ota_password
+
 wifi:
   ssid: !secret wifi_ssid
   password: !secret wifi_password
@@ -23,6 +43,11 @@ wifi:
 
 captive_portal:
 
+# Get time from ha
+time:
+  - platform: homeassistant
+    id: homeassistant_time
+
 binary_sensor:
 # WIFI Status  
   - platform: status
@@ -33,7 +58,7 @@ binary_sensor:
   - platform: gpio
     name: Genie button
     icon: "mdi:gesture-tap-button"
-    internal: false
+    internal: true
     pin:
       number: 3
       inverted: true
@@ -89,3 +114,5 @@ light:
     num_leds: 1
     type: GRB
     internal: true
+
+    
