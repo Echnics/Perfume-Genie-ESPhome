@@ -9,8 +9,11 @@ LED lights up green when fan is running.<br>
 The rear button toggels the fan.<br>
 I've set up timers in Nodered for runtimes,that can easily be done with HA automations to.<br>
 
+I'm waiting for som parts, but plan to add a capacitive touch sensor to it, <br>
+so you just can activate it with touching/rubbing the genie, so it becomes a real genie :D <br>
 
-Here is som info on the perfume genie board.<br>
+
+# Here is som info on the perfume genie board.<br>
 The pins on the header in the top left corner i soldered on my self to make flashing easier.
 ![Alt text](images/Perfumegenieboard.jpg)
 ![Alt text](images/perfumegenieespmodule.jpeg) 
@@ -27,7 +30,7 @@ But i also guess it's not so easy to figure out the data for the tank tag to get
 If someone is good at that, let my know.
 
 
-Flashing:
+# Flashing:
 
 For Software i just used ESPhome addon in HA to compile the bin file, <br>
 and used https://web.esphome.io/?dashboard_install for flashing that file. <br>
