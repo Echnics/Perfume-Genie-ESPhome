@@ -47,4 +47,4 @@ For the 3volt and io0 directly to the genie esp, i just manualy hold the wires i
 Just make sure you use 3 volt on whatever serial adapter you use.(i read somwhere)
 
 
-![Alt text](images/flashing.png)
+![Alt text](images/flashing2.png)
